@@ -2,10 +2,10 @@
   "packages":
   [
     {
-      "name": "SmartSpin",
-      "maintainer": "SmartSpin",
-      "websiteURL": "www.championx.com",
-      "email" : "trwinco@gmail.com",
+      "name": "robohat",
+      "maintainer": "Robotics Masters",
+      "websiteURL": "https://roboticsmasters.co",
+      "email" : "techsupport@roboticsmasters.co",
       "platforms":
       [
         {
@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://github.com/trwinok/Arduino-Custom-Boards/blob/main/1.8.13.zip",
           "archiveFileName": "1.8.13.zip",
-          "checksum": "SHA-256:e6a4c0b37a90a922777556d3af04c0396d9fc7fc47dfa5220f3d3da2410a3bf1",
-          "size": "2381077",
+          "checksum": "SHA-256:1927B1B20B0FFA36D1F1BFBA028F90756CEE82B42227C898417ABCFA56ADC6F6",
+          "size": "8773152",
           "boards": [
             {
               "name": "SmartSpin Sensor"
